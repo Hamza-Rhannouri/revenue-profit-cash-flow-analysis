@@ -1,4 +1,4 @@
-# Project 3 — Revenue, Profit & Cash Flow Analysis (Power BI)
+# Revenue, Profit & Cash Flow Analysis (Power BI)
 
 ## Purpose
 
